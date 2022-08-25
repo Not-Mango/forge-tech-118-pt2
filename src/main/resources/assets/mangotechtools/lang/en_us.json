@@ -20,18 +20,21 @@
   "item.mangotechtools.aquamarine_axe": "Aquamarine Axe",
   "item.mangotechtools.aquamarine_hoe": "Aquamarine Hoe",
   "item.mangotechtools.aquamarine_sword": "Aquamarine Sword",
+  "item.mangotechtools.aquamarine_paxel": "Aquamarine Paxel",
 
   "item.mangotechtools.apatite_pickaxe": "Apatite Pickaxe",
   "item.mangotechtools.apatite_shovel": "Apatite Shovel",
   "item.mangotechtools.apatite_axe": "Apatite Axe",
   "item.mangotechtools.apatite_hoe": "Apatite Hoe",
   "item.mangotechtools.apatite_sword": "Apatite Sword",
-
+  "item.mangotechtools.apatite_paxel": "Apatite Paxel",
+  
   "item.mangotechtools.topaz_pickaxe": "Topaz Pickaxe",
   "item.mangotechtools.topaz_shovel": "Topaz Shovel",
   "item.mangotechtools.topaz_axe": "Topaz Axe",
   "item.mangotechtools.topaz_hoe": "Topaz Hoe",
   "item.mangotechtools.topaz_sword": "Topaz Sword",
+  "item.mangotechtools.topaz_paxel": "Topaz Paxel",
 
   "itemGroup.mangotechingots": "Mango Tech Ingots",
   "itemGroup.mangotechtool": "Mango Tech Tools"
