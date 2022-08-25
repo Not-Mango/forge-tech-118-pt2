@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "mangotechtools:apatite_axe"
+    },
+    "S": {
+      "item": "mangotechtools:apatite_shovel"
+    },
+    "P": {
+      "item": "mangotechtools:apatite_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:apatite_paxel"
+  }
+}
