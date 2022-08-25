@@ -51,7 +51,9 @@
   "item.mangotechtools.aquamarine_leggings" : "Aquamarine Leggings",
   "item.mangotechtools.aquamarine_boots" : "Aquamarine Boots",
 
+  "itemGroup.mangotechores": "Mango Tech Ores",
   "itemGroup.mangotechingots": "Mango Tech Ingots",
+  "itemGroup.mangotechblocks": "Mango Tech Blocks",
   "itemGroup.mangotechtool": "Mango Tech Tools",
   "itemGroup.mangotecharmour": "Mango Tech Armours"
 }
