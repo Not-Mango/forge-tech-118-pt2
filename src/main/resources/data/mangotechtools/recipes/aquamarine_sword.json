@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mangotechtools:aquamarine"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:aquamarine_sword"
+  }
+}

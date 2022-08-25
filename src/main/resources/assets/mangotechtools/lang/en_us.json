@@ -1,0 +1,38 @@
+{
+  "item.mangotechtools.tin_ingot": "Tin Ingot",
+  "item.mangotechtools.tin_nugget": "Tin Nugget",
+  "item.mangotechtools.tin_dust": "Tin Dust",
+
+  "item.mangotechtools.bronze_ingot": "Bronze Ingot",
+  "item.mangotechtools.bronze_dust": "Bronze Dust",
+  "item.mangotechtools.bronze_nugget": "Bronze Nugget",
+
+  "item.mangotechtools.aluminium_ingot": "Aluminium Ingot",
+  "item.mangotechtools.aluminium_nugget": "Aluminium Nugget",
+  "item.mangotechtools.aluminium_dust": "Aluminium Dust",
+
+  "item.mangotechtools.aquamarine": "Aquamarine",
+  "item.mangotechtools.apatite": "Apatite",
+  "item.mangotechtools.topaz": "Topaz",
+
+  "item.mangotechtools.aquamarine_pickaxe": "Aquamarine Pickaxe",
+  "item.mangotechtools.aquamarine_shovel": "Aquamarine Shovel",
+  "item.mangotechtools.aquamarine_axe": "Aquamarine Axe",
+  "item.mangotechtools.aquamarine_hoe": "Aquamarine Hoe",
+  "item.mangotechtools.aquamarine_sword": "Aquamarine Sword",
+
+  "item.mangotechtools.apatite_pickaxe": "Apatite Pickaxe",
+  "item.mangotechtools.apatite_shovel": "Apatite Shovel",
+  "item.mangotechtools.apatite_axe": "Apatite Axe",
+  "item.mangotechtools.apatite_hoe": "Apatite Hoe",
+  "item.mangotechtools.apatite_sword": "Apatite Sword",
+
+  "item.mangotechtools.topaz_pickaxe": "Topaz Pickaxe",
+  "item.mangotechtools.topaz_shovel": "Topaz Shovel",
+  "item.mangotechtools.topaz_axe": "Topaz Axe",
+  "item.mangotechtools.topaz_hoe": "Topaz Hoe",
+  "item.mangotechtools.topaz_sword": "Topaz Sword",
+
+  "itemGroup.mangotechingots": "Mango Tech Ingots",
+  "itemGroup.mangotechtool": "Mango Tech Tools"
+}
