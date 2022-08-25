@@ -7,15 +7,19 @@ public class ModCreativeModeTab {
 
     public static final CreativeModeTab MANGO_INGOTS = new CreativeModeTab("mangotechingots") {
         @Override
-        public ItemStack makeIcon() {
-            return new ItemStack(ModItems.TIN_INGOT.get());
+        public ItemStack makeIcon() {return new ItemStack(ModItems.TIN_INGOT.get());
         }
     };
 
     public static final CreativeModeTab MANGO_TOOLS = new CreativeModeTab("mangotechtool") {
         @Override
-        public ItemStack makeIcon() {
-            return new ItemStack(ModItems.APATITE_AXE.get());
+        public ItemStack makeIcon() {return new ItemStack(ModItems.APATITE_PAXEL.get());
+        }
+    };
+
+    public static final CreativeModeTab MANGO_ARMOURS = new CreativeModeTab("mangotecharmour") {
+        @Override
+        public ItemStack makeIcon() {return new ItemStack(ModItems.AQUAMARINE_CHESTPLATE.get());
         }
     };
 

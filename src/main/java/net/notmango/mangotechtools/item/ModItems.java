@@ -1,12 +1,13 @@
 package net.notmango.mangotechtools.item;
 
+import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.notmango.mangotechtools.MangoTechTools;
-import net.notmango.mangotechtools.item.custom.ModTiers;
+import net.notmango.mangotechtools.item.custom.ModArmorItem;
 import net.notmango.mangotechtools.item.custom.PaxelItem;
 
 public class ModItems {
@@ -133,6 +134,60 @@ public class ModItems {
     public static final RegistryObject<Item> TOPAZ_PAXEL = ITEMS.register("topaz_paxel",
             () -> new PaxelItem(ModTiers.TOPAZ,6,-2.8f,
                     new Item.Properties().tab(ModCreativeModeTab.MANGO_TOOLS).durability(1500)));
+
+
+
+    public static final RegistryObject<Item> APATITE_HELMET = ITEMS.register("apatite_helmet",
+            () -> new ModArmorItem(ModArmorMaterials.APATITE, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> APATITE_CHESTPLATE = ITEMS.register("apatite_chestplate",
+            () -> new ArmorItem(ModArmorMaterials.APATITE, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> APATITE_LEGGINGS = ITEMS.register("apatite_leggings",
+            () -> new ArmorItem(ModArmorMaterials.APATITE, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> APATITE_BOOTS = ITEMS.register("apatite_boots",
+            () -> new ArmorItem(ModArmorMaterials.APATITE, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+
+
+    public static final RegistryObject<Item> AQUAMARINE_HELMET = ITEMS.register("aquamarine_helmet",
+            () -> new ModArmorItem(ModArmorMaterials.AQUAMARINE, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> AQUAMARINE_CHESTPLATE = ITEMS.register("aquamarine_chestplate",
+            () -> new ArmorItem(ModArmorMaterials.AQUAMARINE, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> AQUAMARINE_LEGGINGS = ITEMS.register("aquamarine_leggings",
+            () -> new ArmorItem(ModArmorMaterials.AQUAMARINE, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> AQUAMARINE_BOOTS = ITEMS.register("aquamarine_boots",
+            () -> new ArmorItem(ModArmorMaterials.AQUAMARINE, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+
+
+    public static final RegistryObject<Item> TOPAZ_HELMET = ITEMS.register("topaz_helmet",
+            () -> new ModArmorItem(ModArmorMaterials.TOPAZ, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> TOPAZ_CHESTPLATE = ITEMS.register("topaz_chestplate",
+            () -> new ArmorItem(ModArmorMaterials.TOPAZ, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> TOPAZ_LEGGINGS = ITEMS.register("topaz_leggings",
+            () -> new ArmorItem(ModArmorMaterials.TOPAZ, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
+
+    public static final RegistryObject<Item> TOPAZ_BOOTS = ITEMS.register("topaz_boots",
+            () -> new ArmorItem(ModArmorMaterials.TOPAZ, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.MANGO_ARMOURS)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "mangotechtools:aquamarine_axe"
+    },
+    "S": {
+      "item": "mangotechtools:aquamarine_shovel"
+    },
+    "P": {
+      "item": "mangotechtools:aquamarine_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:aquamarine_paxel"
+  }
+}

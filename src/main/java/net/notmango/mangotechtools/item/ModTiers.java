@@ -1,4 +1,4 @@
-package net.notmango.mangotechtools.item.custom;
+package net.notmango.mangotechtools.item;
 
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.item.crafting.Ingredient;

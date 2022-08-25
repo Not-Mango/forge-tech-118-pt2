@@ -36,6 +36,22 @@
   "item.mangotechtools.topaz_sword": "Topaz Sword",
   "item.mangotechtools.topaz_paxel": "Topaz Paxel",
 
+  "item.mangotechtools.apatite_helmet" : "Apatite Helmet",
+  "item.mangotechtools.apatite_chestplate" : "Apatite Chestplate",
+  "item.mangotechtools.apatite_leggings" : "Apatite Leggings",
+  "item.mangotechtools.apatite_boots" : "Apatite Boots",
+
+  "item.mangotechtools.topaz_helmet" : "Topaz Helmet",
+  "item.mangotechtools.topaz_chestplate" : "Topaz Chestplate",
+  "item.mangotechtools.topaz_leggings" : "Topaz Leggings",
+  "item.mangotechtools.topaz_boots" : "Topaz Boots",
+
+  "item.mangotechtools.aquamarine_helmet" : "Aquamarine Helmet",
+  "item.mangotechtools.aquamarine_chestplate" : "Aquamarine Chestplate",
+  "item.mangotechtools.aquamarine_leggings" : "Aquamarine Leggings",
+  "item.mangotechtools.aquamarine_boots" : "Aquamarine Boots",
+
   "itemGroup.mangotechingots": "Mango Tech Ingots",
-  "itemGroup.mangotechtool": "Mango Tech Tools"
+  "itemGroup.mangotechtool": "Mango Tech Tools",
+  "itemGroup.mangotecharmour": "Mango Tech Armours"
 }

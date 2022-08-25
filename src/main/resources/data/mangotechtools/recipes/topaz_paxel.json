@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "mangotechtools:topaz_axe"
+    },
+    "S": {
+      "item": "mangotechtools:topaz_shovel"
+    },
+    "P": {
+      "item": "mangotechtools:topaz_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:topaz_paxel"
+  }
+}
