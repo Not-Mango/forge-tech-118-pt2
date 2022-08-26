@@ -24,6 +24,12 @@ public class ModCreativeModeTab {
         }
     };
 
+    public static final CreativeModeTab MANGO_MACHINES = new CreativeModeTab("mangotechmachines") {
+        @Override
+        public ItemStack makeIcon() {return new ItemStack(ModBlocks.OBLITERATOR.get());
+        }
+    };
+
     public static final CreativeModeTab MANGO_TOOLS = new CreativeModeTab("mangotechtool") {
         @Override
         public ItemStack makeIcon() {return new ItemStack(ModItems.APATITE_PAXEL.get());

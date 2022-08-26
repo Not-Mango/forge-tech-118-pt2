@@ -1,0 +1,12 @@
+{
+  "type": "mangotechtools:obliterating",
+  "ingredients": [
+    {
+      "item": "mangotechtools:tin_ore"
+    }
+  ],
+  "output": {
+    "item": "mangotechtools:tin_dust",
+    "count": 2
+  }
+}

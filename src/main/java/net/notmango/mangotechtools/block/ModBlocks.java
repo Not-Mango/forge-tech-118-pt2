@@ -15,6 +15,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.notmango.mangotechtools.MangoTechTools;
+import net.notmango.mangotechtools.block.custom.ObliteratorBlock;
 import net.notmango.mangotechtools.item.ModCreativeModeTab;
 import net.notmango.mangotechtools.item.ModItems;
 
@@ -113,6 +114,12 @@ public class ModBlocks {
                     .sound(SoundType.METAL)
                     .requiresCorrectToolForDrops()),
             ModCreativeModeTab.MANGO_BLOCKS);
+
+    public static final RegistryObject<Block> OBLITERATOR = registerBlock("obliterator",
+            () -> new ObliteratorBlock(BlockBehaviour.Properties.of(Material.METAL).strength(5f, 6f)
+                    .sound(SoundType.METAL)
+                    .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.MANGO_MACHINES);
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mangotechtools:block/obliterator" },
+    "facing=east": { "model": "mangotechtools:block/obliterator", "y": 90 },
+    "facing=south": { "model": "mangotechtools:block/obliterator", "y": 180 },
+    "facing=west": { "model": "mangotechtools:block/obliterator", "y": 270 }
+  }
+}

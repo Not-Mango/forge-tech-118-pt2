@@ -72,10 +72,12 @@
   "block.mangotechtools.deepslate_topaz_ore": "Deepslate Topaz Ore",
   "block.mangotechtools.topaz_block": "Topaz Block",
 
+  "block.mangotechtools.obliterator": "Obliterator",
 
   "itemGroup.mangotechore": "Mango Tech Ores",
   "itemGroup.mangotechingots": "Mango Tech Ingots",
   "itemGroup.mangotechblocks": "Mango Tech Blocks",
   "itemGroup.mangotechtool": "Mango Tech Tools",
-  "itemGroup.mangotecharmour": "Mango Tech Armours"
+  "itemGroup.mangotecharmour": "Mango Tech Armours",
+  "itemGroup.mangotechmachines": "Mango Tech Machines"
 }
