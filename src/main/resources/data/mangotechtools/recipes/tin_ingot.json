@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "mangotechtools:tin_block"
+    }
+  ],
+  "result": {
+    "item": "mangotechtools:tin_ingot",
+    "count": 9
+  }
+}

@@ -1,6 +1,19 @@
 {
   "replace": false,
   "values": [
-
+    "mangotechtools:apatite_ore",
+    "mangotechtools:deepslate_apatite_ore",
+    "mangotechtools:aquamarine_ore",
+    "mangotechtools:deepslate_aquamarine_ore",
+    "mangotechtools:topaz_ore",
+    "mangotechtools:deepslate_topaz_ore",
+    "mangotechtools:apatite_block",
+    "mangotechtools:aquamarine_block",
+    "mangotechtools:topaz_block",
+    "mangotechtools:tin_ore",
+    "mangotechtools:tin_block",
+    "mangotechtools:bronze_block",
+    "mangotechtools:aluminium_block",
+    "mangotechtools:deepslate_tin_ore"
   ]
 }

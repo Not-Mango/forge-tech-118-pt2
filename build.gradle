@@ -16,7 +16,7 @@ apply plugin: 'org.parchmentmc.librarian.forgegradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '0.0.7-1.18.1'
+version = '0.0.9-1.18.1'
 group = 'net.notmango.mangotechtools' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'mangotechtools'
 

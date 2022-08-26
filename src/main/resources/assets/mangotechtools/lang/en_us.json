@@ -51,7 +51,29 @@
   "item.mangotechtools.aquamarine_leggings" : "Aquamarine Leggings",
   "item.mangotechtools.aquamarine_boots" : "Aquamarine Boots",
 
-  "itemGroup.mangotechores": "Mango Tech Ores",
+
+  "block.mangotechtools.tin_ore": "Tin Ore",
+  "block.mangotechtools.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.mangotechtools.tin_block": "Tin Block",
+
+  "block.mangotechtools.bronze_block": "Bronze Block",
+
+  "block.mangotechtools.aluminium_block": "Aluminium Block",
+
+  "block.mangotechtools.apatite_ore": "Apatite Ore",
+  "block.mangotechtools.deepslate_apatite_ore": "Deepslate Apatite Ore",
+  "block.mangotechtools.apatite_block": "Apatite Block",
+
+  "block.mangotechtools.aquamarine_ore": "Aquamarine Ore",
+  "block.mangotechtools.deepslate_aquamarine_ore": "Deepslate Aquamarine Ore",
+  "block.mangotechtools.aquamarine_block": "Aquamarine Block",
+
+  "block.mangotechtools.topaz_ore": "Topaz Ore",
+  "block.mangotechtools.deepslate_topaz_ore": "Deepslate Topaz Ore",
+  "block.mangotechtools.topaz_block": "Topaz Block",
+
+
+  "itemGroup.mangotechore": "Mango Tech Ores",
   "itemGroup.mangotechingots": "Mango Tech Ingots",
   "itemGroup.mangotechblocks": "Mango Tech Blocks",
   "itemGroup.mangotechtool": "Mango Tech Tools",

@@ -50,6 +50,14 @@ public class ModBlocks {
             ModCreativeModeTab.MANGO_BLOCKS);
 
 
+
+    public static final RegistryObject<Block> ALUMINIUM_BLOCK = registerBlock("aluminium_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(5f, 6f)
+                    .sound(SoundType.METAL)
+                    .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.MANGO_BLOCKS);
+
+
     
     public static final RegistryObject<Block> APATITE_ORE = registerBlock("apatite_ore",
             () -> new OreBlock(BlockBehaviour.Properties.of(Material.STONE).strength(3f, 3f)

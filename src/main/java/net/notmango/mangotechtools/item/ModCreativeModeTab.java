@@ -6,7 +6,7 @@ import net.notmango.mangotechtools.block.ModBlocks;
 
 public class ModCreativeModeTab {
 
-    public static final CreativeModeTab MANGO_ORES = new CreativeModeTab("mangotechores") {
+    public static final CreativeModeTab MANGO_ORES = new CreativeModeTab("mangotechore") {
         @Override
         public ItemStack makeIcon() {return new ItemStack(ModBlocks.AQUAMARINE_ORE.get());
         }
@@ -20,7 +20,7 @@ public class ModCreativeModeTab {
 
     public static final CreativeModeTab MANGO_BLOCKS = new CreativeModeTab("mangotechblocks") {
         @Override
-        public ItemStack makeIcon() {return new ItemStack(ModBlocks.BRONZE_BLOCK.get());
+        public ItemStack makeIcon() {return new ItemStack(ModBlocks.TIN_BLOCK.get());
         }
     };
 

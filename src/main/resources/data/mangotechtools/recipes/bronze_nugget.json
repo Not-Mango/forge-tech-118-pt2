@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mangotechtools:bronze_ingot"
+    }
+  ],
+  "result": {
+    "item": "mangotechtools:bronze_nugget",
+    "count": 9
+  }
+}

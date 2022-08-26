@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mangotechtools:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:bronze_block"
+  }
+}

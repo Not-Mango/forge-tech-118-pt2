@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-
+    "mangotechtools:tin_ore",
+    "mangotechtools:tin_block",
+    "mangotechtools:bronze_block",
+    "mangotechtools:deepslate_tin_ore"
   ]
 }

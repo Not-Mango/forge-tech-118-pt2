@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "mangotechtools:apatite_block"
+    }
+  ],
+  "result": {
+    "item": "mangotechtools:apatite",
+    "count": 9
+  }
+}

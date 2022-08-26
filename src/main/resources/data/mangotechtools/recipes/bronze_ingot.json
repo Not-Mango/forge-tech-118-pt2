@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "mangotechtools:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "mangotechtools:bronze_ingot",
+    "count": 9
+  }
+}
