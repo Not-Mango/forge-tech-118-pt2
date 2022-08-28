@@ -13,7 +13,7 @@ public class ModRecipes {
             DeferredRegister.create(ForgeRegistries.RECIPE_SERIALIZERS, MangoTechTools.MOD_ID);
 
     public static final RegistryObject<RecipeSerializer<ObliteratorRecipe>> OBLITERATOR_SERIALIZER =
-            SERIALIZERS.register("obliterating", () -> ObliteratorRecipe.Serializer.INSTANCE);
+            SERIALIZERS.register("oblit_erating", () -> ObliteratorRecipe.Serializer.INSTANCE);
 
     public static void register(IEventBus eventBus) {
         SERIALIZERS.register(eventBus);

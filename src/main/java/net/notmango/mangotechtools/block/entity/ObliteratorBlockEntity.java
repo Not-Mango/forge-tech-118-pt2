@@ -23,7 +23,6 @@ import net.minecraftforge.common.util.LazyOptional;
 import net.minecraftforge.items.CapabilityItemHandler;
 import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.items.ItemStackHandler;
-import net.notmango.mangotechtools.item.ModItems;
 import net.notmango.mangotechtools.recipe.ObliteratorRecipe;
 import net.notmango.mangotechtools.screen.ObliteratorMenu;
 import org.jetbrains.annotations.NotNull;
@@ -44,7 +43,7 @@ public class ObliteratorBlockEntity extends BlockEntity implements MenuProvider 
 
     protected final ContainerData data;
     private int progress = 0;
-    private int maxProgress = 72;
+    private int maxProgress = 96;
     private int fuelTime = 0;
     private int maxFuelTime = 0;
 

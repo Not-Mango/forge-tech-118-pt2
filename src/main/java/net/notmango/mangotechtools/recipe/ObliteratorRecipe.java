@@ -1,5 +1,4 @@
 package net.notmango.mangotechtools.recipe;
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import net.minecraft.core.NonNullList;
@@ -67,12 +66,12 @@ public class ObliteratorRecipe implements Recipe<SimpleContainer> {
     public static class Type implements RecipeType<ObliteratorRecipe> {
         private Type() { }
         public static final Type INSTANCE = new Type();
-        public static final String ID = "obliterating";
+        public static final String ID = "oblit_erating";
     }
 
     public static class Serializer implements RecipeSerializer<ObliteratorRecipe> {
         public static final Serializer INSTANCE = new Serializer();
-        public static final ResourceLocation ID = new ResourceLocation(MangoTechTools.MOD_ID,"obliterating");
+        public static final ResourceLocation ID = new ResourceLocation(MangoTechTools.MOD_ID,"oblit_erating");
 
         @Override
         public ObliteratorRecipe fromJson(ResourceLocation id, JsonObject json) {

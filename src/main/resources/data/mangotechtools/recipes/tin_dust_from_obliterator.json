@@ -1,8 +1,11 @@
 {
-  "type": "mangotechtools:obliterating",
+  "type": "mangotechtools:oblit_erating",
   "ingredients": [
     {
       "item": "mangotechtools:tin_ore"
+    },
+    {
+      "item": "minecraft:flint"
     }
   ],
   "output": {

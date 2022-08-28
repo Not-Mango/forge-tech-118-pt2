@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AFA",
+    "FRF",
+    "BSB"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:furnace"
+    },
+    "A": {
+      "item": "mangotechtools:aluminium_ingot"
+    },
+    "B": {
+      "item": "mangotechtools:aluminium_block"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "mangotechtools:obliterator"
+  }
+}
